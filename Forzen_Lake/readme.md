@@ -3,7 +3,8 @@
 The project shows the implementation of the various kind of Reinfocement Learning Algorithms
 By using OpenAI Gym Environment of MiniGrid(6x6).
 
-![Frozen_Lake]([https://www.gymlibrary.dev/_images/frozen_lake.gif])
+![frozen_lake](https://github.com/user-attachments/assets/46f652f0-0e8b-4b80-bb03-c5a1c2cf30a9)
+
 
 # Table Of Contents
 - [Overview](#Overview)
