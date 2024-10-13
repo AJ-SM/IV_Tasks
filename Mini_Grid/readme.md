@@ -11,7 +11,7 @@ By using OpenAI Gym Environment of MiniGrid(6x6).
 -  [Installation](#Installation)
 -  [Working](#Working)
 -  [Monte Carlo](#Monte_Carlo)
--  [Q Learning](Q_Learning)
+-  [Q Learning](Q_Learnings)
 -  [SARSA](#SARSA)
 -  [SARSA(λ)](#SARSA_(λ))
 -  [Graphs_Output](#Graphs_Output)
