@@ -49,12 +49,7 @@ Monte Carlo methods are ways of solving the reinforcement learning problem based
 The output Graphs Are As Folows: 
 - **Monte Carlo** :
 
-  
-![Grid_Result](https://github.com/user-attachments/assets/ce46e792-3d31-4981-8736-724ad59d49ae)
-
-
-
-![Gride_stepos](https://github.com/user-attachments/assets/b4fac024-a033-48b7-9b28-68aed377f3c7)
+![Output](https://github.com/user-attachments/assets/6ab9343b-d85f-44a8-b5f3-5b4493695058)
 
 
   
