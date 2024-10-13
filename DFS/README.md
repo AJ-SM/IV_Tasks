@@ -21,7 +21,8 @@ The pyamaze will generates the gird of specification (for this project 10x10 has
 
 # Installation 
 -  Clone the Repository:
-  ``` git clone https://github.com/AJ-SM/IV_Tasks/blob/main/DFS/new.py
+  ``` bash
+ git clone https://github.com/AJ-SM/IV_Tasks/blob/main/DFS/new.py
 
 
 
