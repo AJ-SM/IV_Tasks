@@ -1,2 +1,2 @@
-#Maze Solving using DFS with Pyamaze
+# Maze Solving using DFS with Pyamaze
 
