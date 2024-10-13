@@ -55,14 +55,14 @@ The Minigird 6x6 will we be used to implement the reinforcement Learning :
 
 
 
-- #Q_Learnings : Q-learning is a model-free reinforcement learning algorithm used to find the optimal action-selection policy in a given environment. It works by learning a quality function (Q-value) that estimates the expected future rewards for an agent taking an action in a particular state, and then following the best policy based on these learned values.
+  #Q_Learnings : Q-learning is a model-free reinforcement learning algorithm used to find the optimal action-selection policy in a given environment. It works by learning a quality function (Q-value) that estimates the expected future rewards for an agent taking an action in a particular state, and then following the best policy based on these learned values.
 
   
 ![Q_learnings](https://github.com/user-attachments/assets/2946626c-9287-4ff7-9e18-9612318141ac)
 
 
 
-- #SARSA : SARSA (State-Action-Reward-State-Action) is an on-policy reinforcement learning algorithm used to learn the optimal policy for a given environment by updating a value function based on the action taken and the resulting state-action pair.
+#SARSA : SARSA (State-Action-Reward-State-Action) is an on-policy reinforcement learning algorithm used to learn the optimal policy for a given environment by updating a value function based on the action taken and the resulting state-action pair.
 
 
 
@@ -71,7 +71,7 @@ The Minigird 6x6 will we be used to implement the reinforcement Learning :
 
 
 
-- #SARSA_(λ) : SARSA(λ) is an extension of the SARSA algorithm that incorporates eligibility traces, allowing it to learn from multiple time steps of experience at once. This combination of SARSA and eligibility traces enables faster learning and more efficient use of past experiences compared to the standard SARSA.
+#SARSA_(λ) : SARSA(λ) is an extension of the SARSA algorithm that incorporates eligibility traces, allowing it to learn from multiple time steps of experience at once. This combination of SARSA and eligibility traces enables faster learning and more efficient use of past experiences compared to the standard SARSA.
 
 
 ![Sarsa(lambda)](https://github.com/user-attachments/assets/9b1b7c11-82e6-4a4a-bc81-f6ceb0a92370)
