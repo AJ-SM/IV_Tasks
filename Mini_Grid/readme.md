@@ -44,7 +44,7 @@ The Minigird 6x6 will we be used to implement the reinforcement Learning :
 
 # Working
 
-- #**Monte_Carlo** : Monte Carlo methods are ways of solving the reinforcement learning problem based on averaging sample returns. To ensure that well-defined returns are available, here we define Monte Carlo methods only for episodic tasks.
+#Monte_Carlo : Monte Carlo methods are ways of solving the reinforcement learning problem based on averaging sample returns. To ensure that well-defined returns are available, here we define Monte Carlo methods only for episodic tasks.
 
   
   
