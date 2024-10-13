@@ -20,9 +20,19 @@ The pyamaze will generates the gird of specification (for this project 10x10 has
 - [Pyamaze](https://github.com/MAN1986/pyamaze/blob/main/pyamaze/pyamaze.py)
 
 # Installation 
--  Clone the Repository:
+- Install Pyamaze
   ``` bash
+  git clone https://github.com/MAN1986/pyamaze/blob/main/pyamaze/pyamaze.py
+  
+-  Clone the Repository:
+  ``` 
  git clone https://github.com/AJ-SM/IV_Tasks/blob/main/DFS/new.py
+
+
+
+
+
+# Dame
 
 
 
