@@ -6,6 +6,9 @@ This can be done by using **pymaze**
 
 # Table Of Contents
 - [Overview](#Overview)
+-  [Agents Workflow](#Agents Workflow)
+-  [Requirements](#Requirements)
+-  [Installation](#Installation)
 
 
 # Overview
@@ -22,17 +25,19 @@ The pyamaze will generates the gird of specification (for this project 10x10 has
 # Installation 
 - Install Pyamaze
   ``` bash
-  git clone https://github.com/MAN1986/pyamaze/blob/main/pyamaze/pyamaze.py
-  
+  git clone https://github.com/MAN1986/pyamaze/blob/main/pyamaze/pyamaze.py 
 -  Clone the Repository:
-  ``` 
- git clone https://github.com/AJ-SM/IV_Tasks/blob/main/DFS/new.py
+   ``` bash  
+     git clone
+    https://github.com/AJ-SM/IV_Tasks/blob/main/DFS/new.py
+
+-  
 
 
 
 
 
-# Dame
+
 
 
 
