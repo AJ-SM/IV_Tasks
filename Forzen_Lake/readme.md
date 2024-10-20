@@ -1,4 +1,4 @@
-# MiniGrid Basic Application
+# Frozen_Lake
 
 The project shows the implementation of the various kind of Reinfocement Learning Algorithms
 By using OpenAI Gym Environment of MiniGrid(6x6).
