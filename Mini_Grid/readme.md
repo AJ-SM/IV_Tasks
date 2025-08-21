@@ -40,7 +40,7 @@ The Minigird 6x6 will we be used to implement the reinforcement Learning :
   git clone https://github.com/openai/gym 
 -  Clone the Repository:
    ``` bash  
-     git clone https://github.com/AJ-SM/IV_Tasks/tree/main/Mini_Grid)](https://github.com/AJ-SM/IV_Tasks/tree/main/Mini_Grid
+     git clone https://github.com/AJ-SM/IV_Tasks/tree/main/Mini_Grid
 
 # Working
 
@@ -131,6 +131,7 @@ The output Graphs Are As Folows:
 
 
 ![Sarsa_Lambda](https://github.com/user-attachments/assets/4d231748-8109-456e-b674-0700d35169d3)
+
 
 
 
